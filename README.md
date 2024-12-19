@@ -21,6 +21,7 @@ To compile and run this project, you'll need:
 
 #### Using `make`: 
 make
+
 ./main
 
 #### Using without `make`: 
