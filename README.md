@@ -27,4 +27,5 @@ make
 clang++ main.cpp -o main
 # or
 g++ main.cpp -o main
+
 ./main
