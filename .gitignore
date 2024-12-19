@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+main
+
+# Ignore object files
+*.o
+
+# Ignore temporary and cache directories
+.ccls-cache/
+
+# Ignore Replit-specific files
+.replit
+replit.nix
