@@ -1,6 +1,11 @@
 # Tic Tac Toe in C++
 
 A simple two-player Tic Tac Toe game built in C++.
+## Features
+- Two-player gameplay.
+- Win detection for rows, columns, and diagonals.
+- Draw detection when all cells are filled.
+
 
 ## Files in the Repository
 
