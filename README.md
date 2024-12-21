@@ -2,6 +2,8 @@
 
 A simple two-player Tic Tac Toe game built in C++.
 
+## Files in the Repository
+
 - `main.cpp`: Contains the source code for the Snake game.
 - `Makefile`: Instructions to build the project using `make`.
 - `.replit` and `replit.nix`: Configuration files for running the project on Replit.
