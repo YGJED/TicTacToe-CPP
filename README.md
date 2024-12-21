@@ -17,7 +17,6 @@ To compile and run this project, you'll need:
 
 ---
 
-## How to Compile and Run
 
 ### Using Makefile:
 1. Compile the project:
