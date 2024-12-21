@@ -19,14 +19,13 @@ To compile and run this project, you'll need:
 
 ## How to Compile and Run
 
-#### Using `make`: 
-make
-
-./main
-
-#### Using without `make`: 
-clang++ main.cpp -o main
-# or
-g++ main.cpp -o main
-
-./main
+### Using Makefile:
+1. Compile the project:
+   ```bash
+   make
+   ./main
+### Without Using Makefile:
+1. Compile the main.cpp file using a C++ compiler like g++ or clang++:
+    ```bash
+   clang++ -o main main.cpp
+    ./main
